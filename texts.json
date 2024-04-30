@@ -6,6 +6,12 @@
       "skills": "Yetenekler",
       "portfolio": "Portfolyo",
       "contact": "İletişim"
+    },
+    "home": {
+      "job": "Full Stack Developer",
+      "description": "Ben, Türkiye merkezli yaratıcı bir Full Stack Developer'im ve işime son derece tutkulu ve bağlıyım.",
+      "sayHello": "Bana Ulaşın",
+      "scroll": "Aşağı Kaydırınız"
     }
   },
   "en": {
@@ -15,6 +21,12 @@
       "skills": "Skills",
       "portfolio": "Portfolio",
       "contact": "Contact"
+    },
+    "home": {
+      "job": "Full Stack Developer",
+      "description": "I'm a creative Full Stack Developer based in Turkey, and I'm very passionate and dedicated to my work.",
+      "sayHello": "Say Hello",
+      "scroll": "Scroll Down"
     }
   }
 }

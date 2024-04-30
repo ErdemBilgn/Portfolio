@@ -11,7 +11,7 @@
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --text-color: hsl(var(--hue), var(--sat), 46%);
-  --body-color: hsl(var(--hue), var(--sat), 98%);
+  --body-color: hsl(var(--hue), var(--sat), 95%);
   --container-color: #fff;
 
   /* ---- FONTS AND TYPOGRAPHY */
@@ -137,7 +137,7 @@ img {
 
 /* ---- LAYOUT ---- */
 .container {
-  max-width: 968px;
+  max-width: 1120px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -177,10 +177,21 @@ img {
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
+
+  .button {
+    padding: 1rem 1.75rem;
+  }
+  .button__icon {
+    width: 22px;
+    height: 22px;
+  }
 }
 
 /* for medium devices */
 @media screen and (max-width: 768px) {
+  .section {
+    padding: 2rem 0 4rem;
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -188,6 +199,9 @@ img {
 
 /* for small devices */
 @media screen and (max-width: 350px) {
+  :root {
+    --big-font-size: 2.25rem;
+  }
   .container {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
