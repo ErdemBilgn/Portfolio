@@ -12,6 +12,12 @@
       "description": "Ben, Türkiye merkezli yaratıcı bir Full Stack Developer'im ve işime son derece tutkulu ve bağlıyım.",
       "sayHello": "Bana Ulaşın",
       "scroll": "Aşağı Kaydırınız"
+    },
+    "about": {
+      "title": "Hakkımda",
+      "subtitle": "Ben Kimim?",
+      "description": "Kodlarını anlamlı ve kullanıcı dostu dijital deneyimlere dönüştürmek için çabalayan kendi kendini yetiştirmiş bir geliştiriciyim. Kodlama yolculuğum, merak ve problem çözme tutkusunun harmanıyla besleniyor. Harika projelerde işbirliği yapmaktan ve teknoloji dünyasına biraz yaratıcılık katmaktan heyecan duyuyorum.",
+      "cv": "CV'mi İndirin"
     }
   },
   "en": {
@@ -27,6 +33,12 @@
       "description": "I'm a creative Full Stack Developer based in Turkey, and I'm very passionate and dedicated to my work.",
       "sayHello": "Say Hello",
       "scroll": "Scroll Down"
+    },
+    "about": {
+      "title": "About Me",
+      "subtitle": "My Introduction",
+      "description": "I'm a self-taught developer on a mission to turn lines of code into meaningful and user-friendly digital experiences. My coding journey is fueled by a mix of curiosity and a passion for problem-solving. I'm excited to keep learning, collaborate on cool projects, and bring a bit of creativity to the tech world.",
+      "cv": "Download CV"
     }
   }
 }
