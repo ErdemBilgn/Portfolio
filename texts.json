@@ -1,0 +1,20 @@
+{
+  "tur": {
+    "nav": {
+      "home": "Anasayfa",
+      "about": "Hakkımda",
+      "skills": "Yetenekler",
+      "portfolio": "Portfolyo",
+      "contact": "İletişim"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    }
+  }
+}
