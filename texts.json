@@ -18,6 +18,13 @@
       "subtitle": "Ben Kimim?",
       "description": "Kodlarını anlamlı ve kullanıcı dostu dijital deneyimlere dönüştürmek için çabalayan kendi kendini yetiştirmiş bir geliştiriciyim. Kodlama yolculuğum, merak ve problem çözme tutkusunun harmanıyla besleniyor. Harika projelerde işbirliği yapmaktan ve teknoloji dünyasına biraz yaratıcılık katmaktan heyecan duyuyorum.",
       "cv": "CV'mi İndirin"
+    },
+    "skills": {
+      "title": "Yetenekler",
+      "subtitle": "Teknik Seviyem",
+      "advanced": "İleri",
+      "intermediate": "Orta",
+      "basic": "Başlangıç"
     }
   },
   "en": {
@@ -39,6 +46,13 @@
       "subtitle": "My Introduction",
       "description": "I'm a self-taught developer on a mission to turn lines of code into meaningful and user-friendly digital experiences. My coding journey is fueled by a mix of curiosity and a passion for problem-solving. I'm excited to keep learning, collaborate on cool projects, and bring a bit of creativity to the tech world.",
       "cv": "Download CV"
+    },
+    "skills": {
+      "title": "Skills",
+      "subtitle": "My Technical Level",
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "basic": "Basic"
     }
   }
 }

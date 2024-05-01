@@ -57,7 +57,7 @@
     --h2-font-size: 1.25rem;
     --h3-font-size: 1rem;
     --normal-font-size: 0.938rem;
-    --samll-font-size: 0.813rem;
+    --small-font-size: 0.813rem;
     --smaller-font-size: 0.75rem;
   }
 }
@@ -70,8 +70,9 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
+html,
+body {
+  scroll-behavior: smooth !important;
 }
 
 body,
