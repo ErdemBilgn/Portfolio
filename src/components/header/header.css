@@ -36,6 +36,13 @@
   transition: 0.3s;
 }
 
+.lang {
+  background-color: var(--title-color);
+  border-radius: 5px;
+  color: var(--body-color);
+  padding: 0 var(--mb-1);
+}
+
 .nav__icon,
 .nav__close,
 .nav__toggle {
@@ -46,6 +53,10 @@
 .active-link,
 .nav__link:hover {
   color: var(--title-color-dark);
+}
+
+.lang:hover {
+  color: gray;
 }
 
 /* BREAKPOINTS */

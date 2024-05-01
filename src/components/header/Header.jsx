@@ -53,7 +53,7 @@ export default function Header() {
               <li className="nav__item">
                 <a
                   onClick={changeLanguage}
-                  className="nav__link"
+                  className="nav__link lang"
                   style={{ cursor: "pointer" }}
                 >
                   <i className="uil uil-letter-japanese-a nav__icon"></i>

@@ -11,7 +11,7 @@ export default function Backend() {
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">NodeJS</h3>
@@ -20,7 +20,7 @@ export default function Backend() {
           </div>
 
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">ExpressJS</h3>
@@ -29,7 +29,7 @@ export default function Backend() {
           </div>
 
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">NestJS</h3>
@@ -40,7 +40,7 @@ export default function Backend() {
 
         <div className="skills__group">
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">MongoDB</h3>
@@ -49,7 +49,7 @@ export default function Backend() {
           </div>
 
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">PostgresSQL</h3>
@@ -58,7 +58,7 @@ export default function Backend() {
           </div>
 
           <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
+            <i className="bx bxs-badge-check"></i>
 
             <div>
               <h3 className="skills__name">.Net MVC</h3>
