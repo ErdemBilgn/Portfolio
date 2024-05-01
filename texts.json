@@ -25,6 +25,22 @@
       "advanced": "İleri",
       "intermediate": "Orta",
       "basic": "Başlangıç"
+    },
+    "qualification": {
+      "title": "Nitelikler",
+      "subtitle": "Kişisel Yolculuğum",
+      "education": "Eğitim",
+      "experience": "Deneyim",
+      "highschool": "Lise",
+      "highschoolName": "Ereğli Anadolu Lisesi",
+      "collage": "Sakarya Üniversitesi",
+      "major": "Elektrik Elektronik Mühendisliği",
+      "patika": "Patika.dev",
+      "bootcamp": "Timus Full Stack Bootcamp",
+      "intern": "Mühendislik Stajı",
+      "sedas": "Sakarya Elektrik Dağıtım A.Ş",
+      "engineer": "Elektrik Elektronik Mühendisi",
+      "federal": "Federal Group"
     }
   },
   "en": {
@@ -53,6 +69,22 @@
       "advanced": "Advanced",
       "intermediate": "Intermediate",
       "basic": "Basic"
+    },
+    "qualification": {
+      "title": "Qualification",
+      "subtitle": "My Personal Journey",
+      "education": "Education",
+      "experience": "Experience",
+      "highschool": "Highschool",
+      "highschoolName": "Eregli Anatolian Highschool",
+      "collage": "Sakarya University",
+      "major": "Electrical Electronics Engineering",
+      "patika": "Patika.dev",
+      "bootcamp": "Timus Full Stack Bootcamp",
+      "intern": "Engineering Internship",
+      "sedas": "Sakarya Electric Distribution INC",
+      "engineer": "Electrical Electronics Engineer",
+      "federal": "Federal Group"
     }
   }
 }
