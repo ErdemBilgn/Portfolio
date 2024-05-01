@@ -41,6 +41,16 @@
       "sedas": "Sakarya Elektrik Dağıtım A.Ş",
       "engineer": "Elektrik Elektronik Mühendisi",
       "federal": "Federal Group"
+    },
+    "work": {
+      "title": "Portfolyo",
+      "subtitle": "En Son Projelerim",
+      "estateDesc": "MERN yapısı ile oluşturulmış bir emlakçılık uygulaması.",
+      "foodiDesc": "MERN yapısı ile oluşturulmuş bir yemek servisi uygulaması",
+      "yelpDesc": "EJS templateleri ve ExpressJS ile oluşturulmuş bir kamp yeri uygulaması",
+      "timusDesc": "VueJS ve NestJS ile oluşturulmuş bir fabrika kullanıcı dashboard uygulaması",
+      "timusTitle": "Timus Bootcamp Final Projesi",
+      "code": "Kodlar"
     }
   },
   "en": {
@@ -85,6 +95,16 @@
       "sedas": "Sakarya Electric Distribution INC",
       "engineer": "Electrical Electronics Engineer",
       "federal": "Federal Group"
+    },
+    "work": {
+      "title": "Portfolio",
+      "subtitle": "My Latest Work",
+      "estateDesc": "A Real Estate application created using the MERN stack",
+      "foodiDesc": "A Food Delivery application created using the MERN stack",
+      "yelpDesc": "A Campground application created using EJS templates and ExpressJS",
+      "timusDesc": "A Factory user dashboard application created using the MERN stack",
+      "timusTitle": "Timus Bootcamp Final Case",
+      "code": "Codes"
     }
   }
 }

@@ -1,0 +1,132 @@
+.work__container {
+  grid-template-columns: repeat(2, max-content);
+  gap: 3rem;
+  justify-content: center;
+}
+
+.work__card {
+  width: 500px;
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+}
+
+.work__img {
+  width: 100%;
+  border-radius: 1rem 1rem 0 0;
+}
+
+.work__card-body {
+  padding: 1rem;
+}
+
+.work__title {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-medium);
+}
+
+.work__description {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: 1.5rem;
+}
+
+.work__buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.work__button {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: var(--title-color);
+  border-radius: 0.5rem;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+}
+
+.work__button:hover {
+  color: var(--title-color-dark);
+}
+
+.work__button:hover .work__button-icon {
+  transform: scale(1.15);
+}
+
+.work__button-icon {
+  font-size: 1.15rem;
+  transition: 0.4s;
+}
+
+@media screen and (max-width: 1200px) {
+  .work__container {
+    gap: 1.5rem;
+  }
+  .work__card {
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .work__container {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .work__card {
+    width: 100%;
+  }
+}
+
+/* for medium devices */
+
+@media screen and (max-width: 576px) {
+  .work__container {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+  .work__card {
+    width: 100%;
+  }
+  .work__card {
+    width: 100%;
+  }
+
+  .work__title {
+    font-size: var(--normal-font-size);
+  }
+
+  .work__description {
+    font-size: var(--smaller-font-size);
+  }
+
+  .work__button {
+    font-size: var(--smaller-font-size);
+  }
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+  .work__container {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+  .work__card {
+    width: 100%;
+  }
+
+  .work__title {
+    font-size: var(--small-font-size);
+  }
+
+  .work__description {
+    font-size: var(--tiny-font-size);
+  }
+
+  .work__button {
+    font-size: var(--tiny-font-size);
+  }
+}
