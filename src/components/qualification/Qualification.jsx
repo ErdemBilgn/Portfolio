@@ -151,10 +151,10 @@ export default function Qualification() {
               </div>
               <div>
                 <h3 className="qualification__title">
-                  {texts.qualification.intern}
+                  {texts.qualification.sedas}
                 </h3>
                 <span className="qualification__subtitle">
-                  {texts.qualification.sedas}
+                  {texts.qualification.intern}
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
