@@ -89,7 +89,7 @@
 
 .home__scroll-arrow {
   font-size: 1.1rem;
-  color: var(--text-color);
+  color: var(--text-color) !important;
 }
 
 .wheel {
