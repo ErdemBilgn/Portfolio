@@ -43,8 +43,10 @@ export default function ScrollDown() {
             }}
           ></path>
         </svg>
-        <span className="home__scroll-name">{texts.home.scroll}</span>
-        <i className="uil uil-arrow-down home__scroll-arrow"></i>
+        <span className="home__scroll-name">
+          {texts.home.scroll}{" "}
+          <i className="uil uil-arrow-down home__scroll-arrow"></i>
+        </span>
       </a>
     </div>
   );
