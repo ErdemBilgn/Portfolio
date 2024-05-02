@@ -10,6 +10,7 @@ export default function Social() {
       >
         <i className="uil uil-instagram"></i>
       </a>
+
       <a
         href="https://www.linkedin.com/in/omererdembilgin"
         className="home__social-icon"
@@ -17,6 +18,7 @@ export default function Social() {
       >
         <i className="uil uil-linkedin-alt"></i>
       </a>
+
       <a
         href="https://github.com/ErdemBilgn"
         className="home__social-icon"

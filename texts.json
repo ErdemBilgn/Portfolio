@@ -66,6 +66,9 @@
       "send": "Mesajı Gönder",
       "messageSuccess": "Mesajınız Gönderildi!",
       "messageFail": "Bir Şeyler Ters Gitti! Lütfen Daha Sonra Tekrar Dene"
+    },
+    "footer": {
+      "copy": "Bütün hakları saklıdır."
     }
   },
   "en": {
@@ -135,6 +138,9 @@
       "send": "Send Message",
       "messageSuccess": "Your Message Has Been Sent!",
       "messageFail": "Something Went Wrong! Please Try Again Later"
+    },
+    "footer": {
+      "copy": "All rights reserved."
     }
   }
 }
