@@ -87,6 +87,11 @@
   margin-left: 9.25rem;
 }
 
+.home__scroll-arrow {
+  font-size: 1.1rem;
+  color: var(--text-color);
+}
+
 .wheel {
   animation: scroll 2s ease infinite;
 }
