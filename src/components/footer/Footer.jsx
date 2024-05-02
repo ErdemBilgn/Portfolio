@@ -13,14 +13,14 @@ export default function Footer() {
 
         <ul className="footer__list">
           <li>
-            <a href="#home" className="footer__link">
-              {texts.nav.home}
+            <a href="#about" className="footer__link">
+              {texts.nav.about}
             </a>
           </li>
 
           <li>
-            <a href="#about" className="footer__link">
-              {texts.nav.about}
+            <a href="#skills" className="footer__link">
+              {texts.nav.skills}
             </a>
           </li>
 
