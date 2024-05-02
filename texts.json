@@ -51,6 +51,21 @@
       "timusDesc": "VueJS ve NestJS ile oluşturulmuş bir fabrika kullanıcı dashboard uygulaması",
       "timusTitle": "Timus Bootcamp Final Projesi",
       "code": "Kodlar"
+    },
+    "contact": {
+      "title": "Benimle Temasa Geçin",
+      "subtitle": "Bana Ulaşın",
+      "talk": "Bana Bir Şeyler Yazın",
+      "hi": "Hadi Bana Merhaba De!",
+      "write": "Bana Yazın",
+      "name": "İsim",
+      "insertName": "İsminizi Giriniz...",
+      "insertEmail": "Emailinizi Giriniz...",
+      "message": "Mesajınız",
+      "insertMessage": "Mesajınızı Giriniz...",
+      "send": "Mesajı Gönder",
+      "messageSuccess": "Mesajınız Gönderildi!",
+      "messageFail": "Bir Şeyler Ters Gitti! Lütfen Daha Sonra Tekrar Dene"
     }
   },
   "en": {
@@ -105,6 +120,21 @@
       "timusDesc": "A Factory user dashboard application created using the MERN stack",
       "timusTitle": "Timus Bootcamp Final Case",
       "code": "Codes"
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Contact Me",
+      "talk": "Talk To Me",
+      "hi": "Tell Me Hi",
+      "write": "Write Me",
+      "name": "Name",
+      "insertName": "Insert Your Name...",
+      "insertEmail": "Insert Your Email...",
+      "message": "Message",
+      "insertMessage": "Insert Your Message...",
+      "send": "Send Message",
+      "messageSuccess": "Your Message Has Been Sent!",
+      "messageFail": "Something Went Wrong! Please Try Again Later"
     }
   }
 }

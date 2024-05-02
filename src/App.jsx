@@ -6,6 +6,7 @@ import { LanguageProvider } from "./contexts/LanguageContext";
 import Skills from "./components/skills/Skills";
 import Qualification from "./components/qualification/Qualification";
 import Work from "./components/work/Work";
+import Contact from "./components/contact/Contact";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Skills />
           <Qualification />
           <Work />
+          <Contact />
         </main>
       </div>
     </LanguageProvider>
