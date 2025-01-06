@@ -44,7 +44,7 @@ export default function Frontend() {
 
             <div>
               <h3 className="skills__name">ReactJS</h3>
-              <span className="skills__level">{texts.skills.intermediate}</span>
+              <span className="skills__level">{texts.skills.advanced}</span>
             </div>
           </div>
 
