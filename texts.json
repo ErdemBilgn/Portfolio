@@ -45,11 +45,12 @@
     "work": {
       "title": "Portfolyo",
       "subtitle": "En Son Projelerim",
-      "estateDesc": "MERN yapısı ile oluşturulmış bir emlakçılık uygulaması.",
-      "foodiDesc": "MERN yapısı ile oluşturulmuş bir yemek servisi uygulaması",
-      "yelpDesc": "EJS templateleri ve ExpressJS ile oluşturulmuş bir kamp yeri uygulaması",
+      "estateDesc": "MERN yapısı ile oluşturulmış bir emlakçılık uygulaması. Bu emlakçılık platformu, kullanıcıların kendi emlaklarını yükleyip diğer kullanıcıların bu emlakları görmesine ve detaylı arama filtreleriyle araştırma yapmasına olanak tanır. Kullanıcılar, kendi profillerini oluşturup düzenleyebilir ve emlak sahipleriyle doğrudan e-posta üzerinden iletişim kurabilir. Demo link çalışıyor fakat yaklaşık bir 40-45 saniye beklemeniz gerekiyor. Projeyi Render uygulaması üzerine yüklediğim için malesef böyle bir durum mevcut.",
+      "foodiDesc": "MERN yapısı ile oluşturulmuş bir yemek servisi uygulaması. Bu yemek servisi uygulaması, kullanıcıların menüleri inceleyip kendi sepetlerini oluşturmasına olanak tanır. Ayrıca, ürün ekleme, düzenleme ve silme işlemleri için bir admin paneli sunar. Kullanıcılar, kendi profillerini oluşturup düzenleyebilir ve kişiselleştirilmiş bir deneyim yaşayabilir.",
+      "yelpDesc": "EJS templateleri ve ExpressJS ile oluşturulmuş bir kamp yeri uygulaması. Bu kamp yeri uygulaması, kullanıcıların kendi profillerini oluşturup düzenlemesine, kullandıkları ve beğendikleri kamp yerlerini yüklemesine olanak tanır. Diğer kullanıcıların paylaştığı kamp yerlerine puan verip yorum yapabilirler. Kamp yerleri ayrıca büyük bir dünya haritası üzerinden görüntülenebilir. Demo link çalışıyor fakat yaklaşık bir 40-45 saniye beklemeniz gerekiyor. Projeyi Render uygulaması üzerine yüklediğim için malesef böyle bir durum mevcut.",
       "timusDesc": "VueJS ve NestJS ile oluşturulmuş bir fabrika kullanıcı dashboard uygulaması",
       "timusTitle": "Timus Bootcamp Final Projesi",
+      "vellaConceptDesc": "MERN yapısı ile oluşturulmış bir mobilya uygulaması. Vellaconcept'in mobilyalarını tanıtmak amacıyla oluşturulan bu web sitesi, kullanıcıların gelişmiş arama filtreleriyle ürünleri incelemesine ve araştırmasına olanak tanır. Şirket yetkilileri için, yeni ürün ekleme, düzenleme ve silme işlemleri yapabilecekleri şifre korumalı bir admin paneli bulunmaktadır. Ayrıca, site 4 farklı dil seçeneği sunarak uluslararası kullanıcılar için kolaylık sağlar. İlk gerçek ve yayınlanmış projem olan bu mobilya sitesi, full stack developer olarak kariyerimde önemli bir adımı temsil ediyor.",
       "code": "Kodlar"
     },
     "contact": {
@@ -117,11 +118,12 @@
     "work": {
       "title": "Portfolio",
       "subtitle": "My Latest Work",
-      "estateDesc": "A Real Estate application created using the MERN stack",
-      "foodiDesc": "A Food Delivery application created using the MERN stack",
-      "yelpDesc": "A Campground application created using EJS templates and ExpressJS",
-      "timusDesc": "A Factory user dashboard application created using the MERN stack",
+      "estateDesc": "A Real Estate application created using the MERN stack. This real estate platform allows users to upload their properties and enables others to view and explore them using advanced search filters. Users can create and edit their profiles and directly communicate with property owners via email.The demo link is working, but you need to wait approximately 40-45 seconds. Unfortunately, this delay occurs because the project is hosted on Render.",
+      "foodiDesc": "A Food Delivery application created using the MERN stack. This food delivery application allows users to browse menus and create their own carts. It also features an admin panel for adding, editing, and deleting products. Additionally, users can create and edit their profiles, offering a personalized experience.",
+      "yelpDesc": "A Campground application created using EJS templates and ExpressJS. This camping site application allows users to create and edit their profiles, upload the campsites they have visited and liked, and rate or comment on other users' shared campsites. Campsites can also be viewed on a large world map.The demo link is working, but you need to wait approximately 40-45 seconds. Unfortunately, this delay occurs because the project is hosted on Render.",
+      "timusDesc": "A Factory user dashboard application created using the MERN stack.",
       "timusTitle": "Timus Bootcamp Final Case",
+      "vellaConceptDesc": "A Furniture application created using the MERN stack. This website, created to showcase Vellaconcept's furniture, allows users to explore and search for products using advanced filters. For company officials, there is a password-protected admin panel that enables adding, editing, and deleting products. Additionally, the site offers 4 language options, making it accessible to international users. This furniture website, my first real and published project, marks an important milestone in my career as a full stack developer.",
       "code": "Codes"
     },
     "contact": {

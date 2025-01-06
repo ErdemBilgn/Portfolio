@@ -5,6 +5,7 @@ import FoodiImg from "../../assets/Foodi.png";
 import YelpCampImg from "../../assets/YelpCamp.png";
 import TimusImg from "../../assets/Timus.png";
 import WorkCard from "./WorkCard";
+import vellaImg from "../../assets/VellaConcept.png";
 
 export default function Works() {
   const { getTexts } = useLanguage();
@@ -13,6 +14,13 @@ export default function Works() {
   const projects = [
     {
       id: 1,
+      image: vellaImg,
+      title: "VellaConcept",
+      description: texts.work.vellaConceptDesc,
+      demoLink: "https://vellaconcept.com/",
+    },
+    {
+      id: 2,
       image: BilginEstateImg,
       title: "Bilgin-Estate",
       description: texts.work.estateDesc,
@@ -22,7 +30,7 @@ export default function Works() {
     },
 
     {
-      id: 2,
+      id: 3,
       image: FoodiImg,
       title: "Foodi",
       description: texts.work.foodiDesc,
@@ -32,7 +40,7 @@ export default function Works() {
     },
 
     {
-      id: 3,
+      id: 4,
       image: YelpCampImg,
       title: "YelpCamp",
       description: texts.work.yelpDesc,
@@ -42,7 +50,7 @@ export default function Works() {
     },
 
     {
-      id: 4,
+      id: 5,
       image: TimusImg,
       title: texts.work.timusTitle,
       description: texts.work.timusDesc,

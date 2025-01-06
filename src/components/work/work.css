@@ -9,6 +9,9 @@
   background-color: var(--container-color);
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .work__img {
@@ -29,7 +32,7 @@
 }
 
 .work__description {
-  font-size: var(--normal-font-size);
+  font-size: var(--smaller-font-size);
   font-weight: var(--font-medium);
   margin-bottom: 1.5rem;
 }
