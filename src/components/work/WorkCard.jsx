@@ -25,7 +25,7 @@ export default function WorkCard({ project, codeText }) {
               target="_blank"
               className="work__button "
             >
-              Demo Link
+              Link
               <i className="uil uil-globe work__button-icon"></i>
             </a>
           )}

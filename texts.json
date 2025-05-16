@@ -40,7 +40,10 @@
       "intern": "Mühendislik Stajı",
       "sedas": "Sakarya Elektrik Dağıtım A.Ş",
       "engineer": "Elektrik Elektronik Mühendisi",
-      "federal": "Federal Group"
+      "federal": "Federal Group",
+      "basarSoft": "Başarsoft / İçişleri Bakanlığı",
+      "fullStack": "Yazılım Geliştirici",
+      "ongoing": "Devam Ediyor"
     },
     "work": {
       "title": "Portfolyo",
@@ -51,7 +54,8 @@
       "timusDesc": "VueJS ve NestJS ile oluşturulmuş bir fabrika kullanıcı dashboard uygulaması",
       "timusTitle": "Timus Bootcamp Final Projesi",
       "vellaConceptDesc": "MERN yapısı ile oluşturulmış bir mobilya uygulaması. Vellaconcept'in mobilyalarını tanıtmak amacıyla oluşturulan bu web sitesi, kullanıcıların gelişmiş arama filtreleriyle ürünleri incelemesine ve araştırmasına olanak tanır. Şirket yetkilileri için, yeni ürün ekleme, düzenleme ve silme işlemleri yapabilecekleri şifre korumalı bir admin paneli bulunmaktadır. Ayrıca, site 4 farklı dil seçeneği sunarak uluslararası kullanıcılar için kolaylık sağlar. İlk gerçek ve yayınlanmış projem olan bu mobilya sitesi, full stack developer olarak kariyerimde önemli bir adımı temsil ediyor.",
-      "code": "Kodlar"
+      "code": "Kodlar",
+      "soloDesc": "React ile geliştirdiğim bu proje, Solo Arge adlı bir firmanın kurumsal kimliğini yansıtan modern ve kullanıcı dostu bir web sitesi olarak tasarlandı. Projede üç dil seçeneği (Türkçe, İngilizce ve Arapça) sunularak farklı bölgelerdeki kullanıcıların siteyi rahatlıkla kullanabilmesi sağlandı. Bu proje sayesinde React ile olan front-end yeteneklerimi ileri seviyeye taşıdım. Özellikle çok dilli yapı kurma, bileşen bazlı (component-based) geliştirme ve responsive tasarım konularında deneyim kazandım."
     },
     "contact": {
       "title": "Benimle Temasa Geçin",
@@ -113,7 +117,10 @@
       "intern": "Engineering Internship",
       "sedas": "Sakarya Electric Distribution INC",
       "engineer": "Electrical Electronics Engineer",
-      "federal": "Federal Group"
+      "federal": "Federal Group",
+      "basarSoft": "Başarsoft / Ministry Of The Interior",
+      "fullStack": "Software Developer",
+      "ongoing": "Ongoing"
     },
     "work": {
       "title": "Portfolio",
@@ -124,6 +131,7 @@
       "timusDesc": "A Factory user dashboard application created using the MERN stack.",
       "timusTitle": "Timus Bootcamp Final Case",
       "vellaConceptDesc": "A Furniture application created using the MERN stack. This website, created to showcase Vellaconcept's furniture, allows users to explore and search for products using advanced filters. For company officials, there is a password-protected admin panel that enables adding, editing, and deleting products. Additionally, the site offers 4 language options, making it accessible to international users. This furniture website, my first real and published project, marks an important milestone in my career as a full stack developer.",
+      "soloDesc": "This project, developed with React, was designed as a modern and user-friendly corporate website that reflects the identity of a company called Solo Arge. It offers three language options (Turkish, English, and Arabic) to ensure accessibility for users from different regions. Through this project, I significantly advanced my front-end development skills with React. I gained valuable experience particularly in implementing multilingual architecture, component-based development and responsive design.",
       "code": "Codes"
     },
     "contact": {

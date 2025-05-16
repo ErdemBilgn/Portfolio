@@ -32,7 +32,7 @@ export default function Backend() {
             <i className="bx bxs-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">NestJS</h3>
+              <h3 className="skills__name">.Net MVC</h3>
               <span className="skills__level">{texts.skills.intermediate}</span>
             </div>
           </div>
@@ -52,8 +52,8 @@ export default function Backend() {
             <i className="bx bxs-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">PostgresSQL</h3>
-              <span className="skills__level">{texts.skills.basic}</span>
+              <h3 className="skills__name">NestJS</h3>
+              <span className="skills__level">{texts.skills.intermediate}</span>
             </div>
           </div>
 
@@ -61,7 +61,7 @@ export default function Backend() {
             <i className="bx bxs-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">.Net MVC</h3>
+              <h3 className="skills__name">MySQL / PostgresSQL</h3>
               <span className="skills__level">{texts.skills.basic}</span>
             </div>
           </div>

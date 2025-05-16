@@ -3,7 +3,7 @@ import "./qualification.css";
 import { useLanguage } from "../../contexts/LanguageContext";
 
 export default function Qualification() {
-  const [toggleState, setToggleState] = useState(1);
+  const [toggleState, setToggleState] = useState(2);
   const { getTexts } = useLanguage();
   const texts = getTexts();
 
@@ -122,6 +122,27 @@ export default function Qualification() {
                 : "qualification__content"
             }
           >
+            <div className="qualification__data">
+              <div></div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">
+                  {texts.qualification.basarSoft}
+                </h3>
+                <span className="qualification__subtitle">
+                  {texts.qualification.fullStack}
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i>
+                  02/2025 - {texts.qualification.ongoing}
+                </div>
+              </div>
+            </div>
+
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">

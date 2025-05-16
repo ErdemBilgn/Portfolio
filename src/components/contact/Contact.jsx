@@ -22,7 +22,7 @@ export default function Contact() {
             position: "center",
             icon: "success",
             title: texts.contact.messageSuccess,
-            showConfirmButton: false,
+            showConfirmButton: true,
             timer: 2000,
           });
           e.target.reset();

@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import { useLanguage } from "../../contexts/LanguageContext";
 import AboutImg from "../../assets/about.png";
-import CV from "../../assets/ErdemBilginCV.pdf";
+import CV from "../../assets/ErdemBilginCV(A).pdf";
 
 export default function About() {
   const { getTexts } = useLanguage();
